@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ## Collaboration
 
-* GitHub: Profile / Repos
+* GitHub: Profile (https://github.com/sudheera96) / Repos
 
 ## Languages
 
