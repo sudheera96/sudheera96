@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Collaboration
-
+Git: Create / Clone / Push
 * GitHub: Profile (https://github.com/sudheera96) / Repos
 
 ## Languages
 
 * GitHub Markdown
+* JavaScript
+
+## Publishing
+Heroku
 
 ## Technology and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -34,9 +38,6 @@ Here are some ideas to get you started:
 ## Github Stats
 
 ![Sri Sudheera's github stats](https://github-readme-stats.vercel.app/api?username=sudheera96&show_icons=true&theme=radical)
-
-
-
 
 
 ## Find Me elsewhere
