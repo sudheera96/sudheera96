@@ -35,6 +35,10 @@ Heroku
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 
+## Badges
+
+![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png)  ![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)
+
 ## Github Stats
 
 ![Sri Sudheera's github stats](https://github-readme-stats.vercel.app/api?username=sudheera96&show_icons=true&theme=radical)
