@@ -25,7 +25,16 @@ Git: Create / Clone / Init / Add / Commit/ Push
 ## Languages
 
 * GitHub Markdown
+* HTML: Semantic tags / geolocation / speech synthesis
 * JavaScript
+
+## IDEs/Editors
+
+* VS Code
+
+## JavaScript
+Basics: variables / literals / scope / if-else / functions
+modules / let / const / arrow functions / promises / async / await
 
 ## Publishing
 * GitHub Pages 
