@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Collaboration
-Git: Create / Clone / Push
-* GitHub: Profile (https://github.com/sudheera96) / Repos
+Git: Create / Clone / Init / Add / Commit/ Push
+* GitHub: Profile (https://github.com/sudheera96) / Repos / Settings
 
 ## Languages
 
@@ -28,7 +28,8 @@ Git: Create / Clone / Push
 * JavaScript
 
 ## Publishing
-Heroku
+* GitHub Pages 
+* Heroku
 
 ## Technology and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
