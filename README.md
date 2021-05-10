@@ -53,6 +53,13 @@ modules / let / const / arrow functions / promises / async / await
 
 ![](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/sql_5_star.png)
 
+## HackerRank Certificates
+
+<a href="https://www.hackerrank.com/certificates/d21abfa16c95">
+    <img src="https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+</a>
+
+
 ## Github Stats
 
 ![Sri Sudheera's github stats](https://github-readme-stats.vercel.app/api?username=sudheera96&show_icons=true&theme=radical)
