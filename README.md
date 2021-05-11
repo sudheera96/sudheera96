@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data%20Analysis-Scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data%20Analysis-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mathematical%20Operations-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Big%20Data-PySpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
