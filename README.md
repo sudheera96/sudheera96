@@ -1,8 +1,11 @@
-### Hey👋, I'm Sri Sudheera Chitipolu.
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sri Sudheera Chitipolu.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/)
+
 
 I am AWS Certified Cloud Practitioner and Data Engineer with 2 years of experience in data analysis and data visualizations using R, Python and Tableau with proven experience in leading project and mentoring junior team members and presentation specialist for World Blockchain Summit 2018.
 
-Currently I am pursuing Masters in Applied Computer Science, NWMSU, USA. Also working as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
+I am pursued Masters in Applied Computer Science, NWMSU, USA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
 
 <!--
 **sudheera96/sudheera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,23 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Collaboration
-Git: Create / Clone / Init / Add / Commit/ Push
-* GitHub: Profile (https://github.com/sudheera96) / Repos / Settings
-
-## Languages
-
-* GitHub Markdown
-* HTML: Semantic tags / geolocation / speech synthesis
-* JavaScript
 
 ## IDEs/Editors
 
-* VS Code
-
-## JavaScript
-Basics: variables / literals / scope / if-else / functions
-modules / let / const / arrow functions / promises / async / await
+*  Visual Studio Code
+*  Jupyter Notebook
+*  Databricks community Edition
+*  Google colab
 
 ## Publishing
 * GitHub Pages 
@@ -67,7 +60,6 @@ modules / let / const / arrow functions / promises / async / await
 
 ## Find Me elsewhere
 
-[Linkedin](https://www.linkedin.com/in/sri-sudheera-chitipolu/)
 
 [Kaggle](https://www.kaggle.com/srisudheera)
 
