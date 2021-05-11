@@ -65,6 +65,11 @@ Here are some ideas to get you started:
 </a>
 
 
+<a href="https://github.com/sudheera96/car-price-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=car-price-prediction&show_icons=true&theme=radical" />
+</a>
+
+
 
 
 ## Github Stats
