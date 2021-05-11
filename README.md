@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 
-## Projects
+## My top open source projects
 
 <a href="https://github.com/sudheera96/pyspark-textprocessing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=pyspark-textprocessing&show_icons=true&theme=radical" />
@@ -82,7 +82,15 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=car-price-prediction&show_icons=true&theme=radical" />
 </a>
 
+## Top projects I've contributed to
 
+<a href="https://github.com/Rajeshwari-Rudra/apache_beam-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshwari-Rudra&repo=apache_beam-python&show_icons=true&theme=radical" />
+</a>
+<br>
+<a href="https://github.com/GUNDUPOOJA/kafka-java-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GUNDUPOOJA&repo=kafka-java-app&show_icons=true&theme=radical" />
+</a>
 
 
 ## Github Stats
