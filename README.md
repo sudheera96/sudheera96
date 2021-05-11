@@ -54,15 +54,16 @@ Here are some ideas to get you started:
 
 ![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png) ![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)   ![H2o.ai](https://raw.githubusercontent.com/sudheera96/badges/main/badge-8779.png) ![kubernetes,containers](https://raw.githubusercontent.com/sudheera96/badges/main/containers-kubernetes-essentials.png) 
 
-## HackerRank Badges
+## HackerRank Badges and Certificates
 
 ![](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/sql_5_star.png)
-
-## HackerRank Certificates
-
 <a href="https://www.hackerrank.com/certificates/d21abfa16c95">
     <img src="https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
+
+
+## Linkedin Skill Assessments Test Badges
+:clipboard: Machine Learning
 
 ## My top open source projects
 
