@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </a>
 
 
-## Linkedin Skill Assessments Test Badges
+## LinkedIn Skill Assessment badge
 :clipboard: Machine Learning
 
 ## My top open source projects
