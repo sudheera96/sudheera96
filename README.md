@@ -54,6 +54,21 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 
+## Projects
+
+<a href="https://github.com/sudheera96/pyspark-textprocessing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=pyspark-textprocessing&show_icons=true&hide_border=true&theme=dark" />
+</a>
+
+
+
+
+
+<a href="https://github.com/sudheera96/abeam_python_Groupby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=abeam_python_Groupby&show_icons=true&hide_border=true&theme=dark" />
+</a>
+
+
 
 ## Github Stats
 
