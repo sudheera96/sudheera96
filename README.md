@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/API%20Development-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Big%20Data-Apache%20Beam-informational?style=flat&logo=apache-beam&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bigdata-Hadoop-informational?style=flat&logo=apache-hadoop&logoColor=white&color=2bbc8a)
 
 
 ## Badges
