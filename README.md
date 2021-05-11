@@ -64,9 +64,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=abeam_python_Groupby&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/44-599-MachineLearning-S21/project-machine-learning-s21-sudheera96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=44-599-MachineLearning-S21&repo=project-machine-learning-s21-sudheera96&show_icons=true&theme=radical" />
-</a>
+
 
 
 ## Github Stats
