@@ -63,7 +63,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/sudheera96/abeam_python_Groupby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=abeam_python_Groupby&show_icons=true&theme=radical" />
 </a>
-
+<a href="https://github.com/sudheera96/shell-data-processing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=shell-data-processing&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/sudheera96/sc-wrangle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=sc-wrangle&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/sudheera96/car-price-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=car-price-prediction&show_icons=true&theme=radical" />
