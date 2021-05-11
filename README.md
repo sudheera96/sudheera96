@@ -2,7 +2,7 @@
 
 I am AWS Certified Cloud Practitioner and Data Engineer with 2 years of experience in data analysis and data visualizations using R, Python and Tableau with proven experience in leading project and mentoring junior team members and presentation specialist for World Blockchain Summit 2018.
 
-I am pursued Masters in Applied Computer Science, NWMSU, USA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
+I am pursued Masters in Applied Computer Science, NWMSU, USA with 4.0/4.0 GPA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
 
 <!--
 **sudheera96/sudheera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
