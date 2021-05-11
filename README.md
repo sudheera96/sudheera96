@@ -32,12 +32,18 @@ Here are some ideas to get you started:
 * GitHub Pages 
 * Heroku
 
-## Technology and Tools
+## Technology Stack
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data%20Analysis-Scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Big%20Data-PySpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell%20Data%20Process-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API%20Development-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Big%20Data-Apache%20Beam-informational?style=flat&logo=apache-beam&logoColor=white&color=2bbc8a)
 
 
 ## Badges
