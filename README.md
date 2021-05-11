@@ -57,17 +57,16 @@ Here are some ideas to get you started:
 ## Projects
 
 <a href="https://github.com/sudheera96/pyspark-textprocessing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=pyspark-textprocessing&show_icons=true&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=pyspark-textprocessing&show_icons=true&theme=radical" />
 </a>
-
-
-
-
 
 <a href="https://github.com/sudheera96/abeam_python_Groupby">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=abeam_python_Groupby&show_icons=true&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=abeam_python_Groupby&show_icons=true&theme=radical" />
 </a>
 
+<a href="https://github.com/44-599-MachineLearning-S21/project-machine-learning-s21-sudheera96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=44-599-MachineLearning-S21&repo=project-machine-learning-s21-sudheera96&show_icons=true&theme=radical" />
+</a>
 
 
 ## Github Stats
