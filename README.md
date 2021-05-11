@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/)
 
-
 I am AWS Certified Cloud Practitioner and Data Engineer with 2 years of experience in data analysis and data visualizations using R, Python and Tableau with proven experience in leading project and mentoring junior team members and presentation specialist for World Blockchain Summit 2018.
 
 I am pursued Masters in Applied Computer Science, NWMSU, USA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
@@ -39,6 +38,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
 
 ## Badges
 
