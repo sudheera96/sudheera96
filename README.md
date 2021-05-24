@@ -85,6 +85,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=car-price-prediction&show_icons=true&theme=radical" />
 </a>
 
+<a href="https://github.com/sudheera96/Boat-Database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=Boat-Database&show_icons=true&theme=radical" />
+</a>
+
 ## Top projects I've contributed to
 
 <a href="https://github.com/Rajeshwari-Rudra/apache_beam-python">
