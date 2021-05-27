@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sri Sudheera Chitipolu. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/)
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sri Sudheera Chitipolu. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) 
 
 I am AWS Certified Cloud Practitioner and Data Engineer with 2 years of experience in data analysis and data visualizations using R, Python and Tableau with proven experience in leading project and mentoring junior team members and presentation specialist for World Blockchain Summit 2018.
 
@@ -17,22 +17,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="408" height="318" />
 
 
 ## IDEs/Editors
+
+
 
 *  Visual Studio Code
 *  Jupyter Notebook
 *  Databricks community Edition
 *  Google colab
 
+
+
 ## Publishing
+
 * GitHub Pages 
 * Heroku
 
+
+
 ## Technology Stack
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data%20Analysis-Scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
@@ -48,6 +60,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Big%20Data-Apache%20Beam-informational?style=flat&logo=apache-beam&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bigdata-Hadoop-informational?style=flat&logo=apache-hadoop&logoColor=white&color=2bbc8a)
+
+
 
 
 ## Badges
@@ -100,14 +114,22 @@ Here are some ideas to get you started:
 </a>
 
 
-## Github Stats
+## Github Stats and Trophies
 
 ![Sri Sudheera's github stats](https://github-readme-stats.vercel.app/api?username=sudheera96&show_icons=true&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sudheera96&theme=darkhub&title=MultiLanguage,Repositories,Followers)
+
 
 
 ## Find Me elsewhere
 
-
 [Kaggle](https://www.kaggle.com/srisudheera)
 
 [Tableau Public](https://public.tableau.com/profile/sri1483#!/)
+
+
+
+
+
+
