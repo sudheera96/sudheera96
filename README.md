@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ## HackerRank Badges and Certificates
 
-![](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/sql_5_star.png)
+[![](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/sql_5_star.png)](https://www.hackerrank.com/csrisudheera96)
 <a href="https://www.hackerrank.com/certificates/d21abfa16c95">
     <img src="https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
