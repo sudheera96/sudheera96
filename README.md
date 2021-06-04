@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ## Badges
 
-![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png) ![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)   ![H2o.ai](https://raw.githubusercontent.com/sudheera96/badges/main/badge-8779.png) ![kubernetes,containers](https://raw.githubusercontent.com/sudheera96/badges/main/containers-kubernetes-essentials.png) 
+[![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png)](https://www.credly.com/earner/earned/badge/f3c16a15-8bc8-4236-94e6-58193dc52f85) [![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)](https://www.credly.com/earner/earned/badge/9ba8d241-5266-4f78-8aa4-5a6f0e6d7d3f)   [![H2o.ai](https://raw.githubusercontent.com/sudheera96/badges/main/badge-8779.png)](https://bcert.me/szgzdqgkg) [![kubernetes,containers](https://raw.githubusercontent.com/sudheera96/badges/main/containers-kubernetes-essentials.png)](https://www.credly.com/earner/earned/badge/bd49b368-20af-4d4a-a051-17baad16ee8d)
 
 ## HackerRank Badges and Certificates
 
