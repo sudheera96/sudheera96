@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 *  Visual Studio Code
 *  Jupyter Notebook
-*  Databricks community Edition
-*  Google colab
+*  PyCharm Community Edition
+*  Databricks Community Edition
+*  Google Colab
 
 
 
