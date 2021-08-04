@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Data%20Analysis-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mathematical%20Operations-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ETL-Alteryx-informational?style=flat&logo=etl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Big%20Data-PySpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell%20Data%20Process-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Big%20Data-Apache%20Beam-informational?style=flat&logo=apache-beam&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bigdata-Hadoop-informational?style=flat&logo=apache-hadoop&logoColor=white&color=2bbc8a)
+
 
 
 
