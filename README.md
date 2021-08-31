@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 ## LinkedIn Skill Assessment badge
 :clipboard: Machine Learning
+:clipboard: SQL
 
 ## My top open source projects
 
