@@ -1,8 +1,8 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sri Sudheera Chitipolu. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) 
 
-I am _Tableau certified Desktop Specialist, AWS Certified Cloud Practitioner_ and with 3+ years of experience in data analysis and data visualizations using R, Python and Tableau with proven experience in leading project and mentoring junior team members and presentation specialist for World Blockchain Summit 2018.
+I am _Tableau certified Desktop Specialist, AWS Certified Cloud Practitioner_ and with 5+ years of experience in data analysis and data visualizations using R, Python, and Tableau with proven experience in leading projects and mentoring junior team members and presentation specialists for World Blockchain Summit 2018.
 
-I am pursued Masters in Applied Computer Science, NWMSU, USA with 4.0/4.0 GPA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
+I am pursued Masters in Applied Computer Science, NWMSU, USA with a 4.0/4.0 GPA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
 
 <!--
 **sudheera96/sudheera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 :clipboard: Machine Learning
 :clipboard: SQL
 
-## My top open source projects
+## My top open-source projects
 
 <a href="https://github.com/sudheera96/pyspark-textprocessing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudheera96&repo=pyspark-textprocessing&show_icons=true&theme=radical" />
