@@ -1,9 +1,9 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
 I'm Sri Sudheera Chitipolu. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) 
 
-I am _a Tableau certified Desktop Specialist, AWS Certified Cloud Practitioner_ and with around 6 years of experience in data analysis and data visualizations using R, Python, and Tableau with proven experience in leading projects and mentoring junior team members and presentation specialists for World Blockchain Summit 2018.
+I am _a  Google Cloud Certified Professional Data Engineer, Databricks Certified Spark Developer Associate 3.0, Tableau certified Desktop Specialist, AWS Certified Cloud Practitioner_ and with around 6 years of experience in data analysis and data visualizations using R, Python, and Tableau with proven experience in leading projects and mentoring junior team members and presentation specialists for World Blockchain Summit 2018.
 
-I am pursued a Master in Applied Computer Science, at NWMSU, USA with a 4.0/4.0 GPA. Also worked as a Graduate Assistant for the Computer Science Department. Consistently top performer, result-oriented with a positive attitude.
+I pursued a Master's in Applied Computer Science, at NWMSU, USA with a 4.0/4.0 GPA. I also worked as a Graduate Assistant for the Computer Science Department. Consistently top performer, result-oriented with a positive attitude.
 
 <!--
 **sudheera96/sudheera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 
 
 ## Badges
+<img src="https://github.com/sudheera96/badges/blob/main/16590189412502689960209276019161.png" width="180" height="180"><img src="https://raw.githubusercontent.com/sudheera96/badges/main/533d78e9-edb8-4003-aeed-fd3cbad3f0e7.png" width="180" height="180">
+
 
 [![](https://raw.githubusercontent.com/sudheera96/badges/main/tableau-desktop-specialist.png)](https://www.credly.com/badges/19512cec-253f-40ba-892e-b98e196f2c76/public_url) [![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/f3c16a15-8bc8-4236-94e6-58193dc52f85/public_url)
 [![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)](https://www.credly.com/badges/9ba8d241-5266-4f78-8aa4-5a6f0e6d7d3f/public_url) [![H2o.ai](https://raw.githubusercontent.com/sudheera96/badges/main/badge-8779.png)](https://bcert.me/szgzdqgkg) [![kubernetes,containers](https://raw.githubusercontent.com/sudheera96/badges/main/containers-kubernetes-essentials.png)](https://www.credly.com/badges/bd49b368-20af-4d4a-a051-17baad16ee8d/public_url) [![Tableau Author](https://raw.githubusercontent.com/sudheera96/badges/main/tableau-author.png)](https://www.credly.com/badges/040e8a41-ee21-4e58-801b-7dd02aa31e0d/public_url)
