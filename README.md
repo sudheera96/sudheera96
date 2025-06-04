@@ -1,9 +1,9 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
-I'm Sri Sudheera Chitipolu. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) 
+I'm Sri Sudheera Chitipolu, PhD Candidate in AI. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) 
 
 I am _a  Google Cloud Certified Professional Data Engineer, Databricks Certified Spark Developer Associate 3.0, Tableau certified Desktop Specialist, AWS Certified Cloud Practitioner_ and with around 6 years of experience in data analysis and data visualizations using R, Python, and Tableau with proven experience in leading projects and mentoring junior team members and presentation specialists for World Blockchain Summit 2018.
 
-I pursued a Master's in Applied Computer Science, at NWMSU, USA with a 4.0/4.0 GPA. I also worked as a Graduate Assistant for the Computer Science Department. Consistently top performer, result-oriented with a positive attitude.
+I pursued a Master's in Applied Computer Science at NWMSU, USA, with a 4.0/4.0 GPA. I also worked as a Graduate Assistant for the Computer Science Department. Consistently top performer, result-oriented with a positive attitude.
 
 <!--
 **sudheera96/sudheera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
